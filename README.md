@@ -8,3 +8,9 @@ User story: I can toggle between All, Active and Completed
 User story: I can remove one or all tasks under the Completed tab
 User story: Store the data in local storage so that when I refresh the page I can still see my progress
 User story(Optional): As long as you fulfill all the user stories, you can give your personal touches by adding transition, using your own images, changing colors
+
+
+To fire up the app
+1. Goto `./my-app`
+2. `npm i`
+3. `npm start`
