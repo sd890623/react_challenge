@@ -1,9 +1,10 @@
+import Home from './Views/Home';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>#Todo</h1>
+        <Home />
     </div>
   );
 }
