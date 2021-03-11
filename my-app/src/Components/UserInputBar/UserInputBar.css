@@ -1,0 +1,11 @@
+.form-container {
+    display: flex;
+}
+.form-input {
+    flex: 4 0 0;
+    margin: 0 10px;
+}
+.form-submit {
+    flex: 1 0 0;
+    margin: 0 10px;
+}
